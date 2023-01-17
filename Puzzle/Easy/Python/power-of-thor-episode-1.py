@@ -4,7 +4,7 @@
 import sys
 import math
 
-def  update_pos(dir, val):
+def update_pos(dir, val):
     if dir == "N":
         return val - 1
     elif dir == "S":
